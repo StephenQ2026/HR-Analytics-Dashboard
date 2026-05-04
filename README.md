@@ -48,7 +48,7 @@ How It Could Be Improved
 - Add trend analysis or forecasting
 - Expand the dataset to include recruitment funnel metrics
 
-![Dashboard Preview](Screenshot 2026-05-04 041521.png)
+![Dashboard Preview](dashboard-preview.png)
 
 How to View the Project
 
