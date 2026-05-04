@@ -48,8 +48,8 @@ How It Could Be Improved
 - Add trend analysis or forecasting
 - Expand the dataset to include recruitment funnel metrics
 
-![Dashboard Preview](C:\Users\steph\Pictures\Screenshots\Screenshot 2026-05-04 041521.png")
-
+![Dashboard Preview](your-image-file.png)
+<img width="1560" height="784" alt="Screenshot 2026-05-04 041521" src="https://github.com/user-attachments/assets/23c02ad9-b306-4e8a-a298-11a75b14b08e" />
 
 How to View the Project
 
